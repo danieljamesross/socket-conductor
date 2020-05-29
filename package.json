@@ -1,0 +1,34 @@
+{
+  "name": "socket-conductor",
+  "version": "1.0.0",
+  "description": "Virtual musical ensemble conductor with node, p5 & socket.io",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "osc-js": "^2.1.0",
+    "socket.io": "^2.3.0",
+    "xebra.js": "^1.2.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieljamesross/socket-conductor.git"
+  },
+  "keywords": [
+    "p5",
+    "socket",
+    "music",
+    "conduct"
+  ],
+  "author": "Daniel James Ross",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danieljamesross/socket-conductor/issues"
+  },
+  "homepage": "https://github.com/danieljamesross/socket-conductor#readme"
+}
